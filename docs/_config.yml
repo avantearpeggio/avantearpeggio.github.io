@@ -21,8 +21,9 @@
 email: avante.arpeggio@gmail.com
 domain: "avantearpeggio.github.io"
 url: "https://avantearpeggio.github.io"
-baseurl: "/docs/"
+#baseurl: "/docs/"
 github_username:  avantearpeggio
+repository: avantearpeggio/avantearpeggio.github.io
 
 # Build settings
 theme: jekyll-theme-cayman
