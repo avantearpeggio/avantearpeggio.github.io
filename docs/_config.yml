@@ -18,19 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Summoner Resources (backup)
 email: avante.arpeggio@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Backup/Staging ground for Summoner Resources.
 domain: "avantearpeggio.github.io"
 url: "https://avantearpeggio.github.io"
 baseurl: "/docs/"
 github_username:  avantearpeggio
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-cayman
 
 # Exclude from processing.
 # The following items will not be processed, by default.
