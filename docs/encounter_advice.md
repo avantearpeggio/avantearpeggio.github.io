@@ -1,5 +1,4 @@
-=================
-:smnbap: __***Encounter Advice***___ :smnbap:
+# :smnbap: Encounter Advice :smnbap:
 
 ## Extremes
 

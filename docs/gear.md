@@ -6,15 +6,15 @@
 
 ### i530 2.47s GCD Relic Weapon
 
-> https://etro.gg/gearset/2777f081-1ac6-43f7-a18f-3e1cc58cbc9b
+> <https://etro.gg/gearset/2777f081-1ac6-43f7-a18f-3e1cc58cbc9b>
 
 ### i530 2.48s GCD Raid Ring
 
-> https://etro.gg/gearset/545b4941-747b-4588-9fe6-37e76778ff8d
+> <https://etro.gg/gearset/545b4941-747b-4588-9fe6-37e76778ff8d>
 
 ### i530 2.50s GCD Double Tome Ring
 
-> https://etro.gg/gearset/d6888e9a-a171-4791-9c74-8196dee970d5
+> <https://etro.gg/gearset/d6888e9a-a171-4791-9c74-8196dee970d5>
 
 **Food**: Smoked Chicken :hq:
 
@@ -26,7 +26,7 @@ All sets are very viable.
 
 ### The Epic of Alexander
 
-> https://etro.gg/gearset/184f26e9-cbaf-4d4f-91f5-dcdea2b3b40b
+> <https://etro.gg/gearset/184f26e9-cbaf-4d4f-91f5-dcdea2b3b40b>
 
 ### Level 70 Ultimates
 
@@ -37,11 +37,11 @@ Notes:
 
 #### UWU
 
-> https://etro.gg/gearset/ead82a92-f1a0-442b-b98d-43a3fea718c0
+> <https://etro.gg/gearset/ead82a92-f1a0-442b-b98d-43a3fea718c0>
 
 #### UCOB
 
-> https://etro.gg/gearset/408f7764-0776-4c55-ba6e-f994ff027860
+> <https://etro.gg/gearset/408f7764-0776-4c55-ba6e-f994ff027860>
 
 ---
 
@@ -51,18 +51,18 @@ Notes:
 
 Simulated eDPS: 21,435.26
 
-> https://etro.gg/gearset/613970e8-00ee-41d6-94b8-e0ecdfd1d445
+> <https://etro.gg/gearset/613970e8-00ee-41d6-94b8-e0ecdfd1d445>
 
 ### 5.5 Highest DPS potential (No Zadnor/Bozja)
 
 Simulated eDPS: 21,306.30
 
-> https://etro.gg/gearset/03cbeb51-d7a1-40f2-ae2f-b5876823c93d
+> <https://etro.gg/gearset/03cbeb51-d7a1-40f2-ae2f-b5876823c93d>
 
 ### Additional Details
 
 See this writeup:
-https://discord.com/channels/277897135515762698/277968477233479680/832044857094176820
+<https://discord.com/channels/277897135515762698/277968477233479680/832044857094176820>
 
 ---
 
